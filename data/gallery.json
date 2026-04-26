@@ -41,6 +41,27 @@
       "image": "/images/student-portrait.jpg",
       "category": "Students",
       "description": "Portrait of our dedicated student in school uniform"
+    },
+    {
+      "id": 7,
+      "title": "School Activities",
+      "image": "/images/casual.jpeg",
+      "category": "Events",
+      "description": "Students engaged in various school activities and events"
+    },
+    {
+      "id": 8,
+      "title": "School Flag",
+      "image": "/images/flag.jpeg",
+      "category": "Activities",
+      "description": "School flag representing our institution and values"
+    },
+    {
+      "id": 9,
+      "title": "School Hall",
+      "image": "/images/hall.jpeg",
+      "category": "Facilities",
+      "description": "Main school hall used for assemblies and events"
     }
   ]
 }

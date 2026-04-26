@@ -101,7 +101,7 @@ export default function Home() {
               <div className="inline-flex items-center gap-2 bg-accent/20 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
                 <Sparkles className="w-4 h-4 text-accent" />
                 <span className="text-sm font-medium text-accent-foreground">
-                  Enrollment Now Open 2024
+                  Enrollment Now Open 2026
                 </span>
               </div>
             </div>
@@ -268,11 +268,12 @@ export default function Home() {
               </Card>
 
               <Card className="group overflow-hidden border-0 shadow-xl hover:shadow-2xl transition-all duration-500 hover:scale-105 bg-gradient-to-br from-background to-muted/20">
-                <div className="relative h-64 overflow-hidden">
+                <div className="relative h-80 overflow-hidden">
                   <img
                     src="/images/pathfinders-club.jpg"
                     alt="Pathfinders Club"
-                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                    className="w-full h-auto object-cover transition-transform duration-700 group-hover:scale-110"
+                    style={{ maxHeight: '400px', objectPosition: 'top center' }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                   <div className="absolute bottom-4 left-4">
