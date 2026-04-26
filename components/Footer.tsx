@@ -48,7 +48,7 @@ export function Footer() {
             <div className="space-y-2 text-sm">
               <div className="flex gap-2">
                 <Phone size={16} className="flex-shrink-0 mt-0.5" />
-                <span>+256 777 564424</span>
+                <span>+256 774 060480</span>
               </div>
               <div className="flex gap-2">
                 <Phone size={16} className="flex-shrink-0 mt-0.5" />
@@ -56,7 +56,7 @@ export function Footer() {
               </div>
               <div className="flex gap-2">
                 <Phone size={16} className="flex-shrink-0 mt-0.5" />
-                <span>+256 774 060480</span>
+                <span>+256 777 564424</span>
               </div>
               <div className="flex gap-2">
                 <Mail size={16} className="flex-shrink-0 mt-0.5" />
