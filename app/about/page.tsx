@@ -102,16 +102,15 @@ export default function AboutPage() {
                   style={{ maxHeight: '500px', objectPosition: 'top center' }}
                 />
                 <CardHeader>
-                  <CardTitle>Mr. David Kipchoge</CardTitle>
+                  <CardTitle>Mr. Mobisa Peter</CardTitle>
                   <CardDescription>Head Teacher</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    With over 15 years of experience in educational leadership, Mr. Kipchoge has
-                    been at the helm of Midland High School since 2018. He is passionate about
-                    fostering academic excellence and holistic development. His vision is to make
-                    Midland High School a center of academic excellence and character formation in
-                    the region.
+                    With over 15 years of experience in educational leadership, Mr. Mobisa has been
+                    at the helm of Midland High School since 2018. He is passionate about fostering
+                    academic excellence and holistic development. His vision is to make Midland High
+                    School a center of academic excellence and character formation in the region.
                   </p>
                 </CardContent>
               </Card>

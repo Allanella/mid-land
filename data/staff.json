@@ -2,12 +2,12 @@
   "staff": [
     {
       "id": 1,
-      "name": "Mr. David Kipchoge",
+      "name": "Mr. Mobisa Peter",
       "position": "Head Teacher",
       "email": "head.teacher@midlandhigh.edu",
       "phone": "+254 (0)20 XXXX XXXX",
       "image": "/images/head-teacher.jpg",
-      "bio": "With over 15 years of experience in educational leadership, Mr. Kipchoge has been at the helm of Midland High School since 2018. He is passionate about fostering academic excellence and holistic development."
+      "bio": "With over 15 years of experience in educational leadership, Mr. Mobisa has been at the helm of Midland High School since 2018. He is passionate about fostering academic excellence and holistic development."
     },
     {
       "id": 2,
