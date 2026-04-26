@@ -79,9 +79,9 @@ export default function ContactPage() {
                     </div>
                   </CardHeader>
                   <CardContent>
-                    <p className="text-muted-foreground">+256 777 564424</p>
-                    <p className="text-muted-foreground">+256 773 493759</p>
                     <p className="text-muted-foreground">+256 774 060480</p>
+                    <p className="text-muted-foreground">+256 773 493759</p>
+                    <p className="text-muted-foreground">+256 777 564424</p>
                     <p className="text-sm text-muted-foreground mt-2">Main Office</p>
                   </CardContent>
                 </Card>

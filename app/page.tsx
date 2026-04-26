@@ -110,8 +110,8 @@ export default function Home() {
               Empowering Minds, Shaping Futures
             </h1>
             <p className="text-xl sm:text-2xl text-primary-foreground/90 mb-12 text-balance max-w-4xl mx-auto leading-relaxed">
-              Excellence in Academic and Holistic Development. Join Midland High School and unlock
-              your potential in a nurturing environment.
+              Excellence in Academic and Holistic Development. Join Midland High School Luweero and
+              unlock your potential in a nurturing environment.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
