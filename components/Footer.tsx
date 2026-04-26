@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* School Info */}
           <div>
-            <h3 className="font-bold text-lg mb-4">Midland High School</h3>
+            <h3 className="font-bold text-lg mb-4">Midland High School - Luweero</h3>
             <p className="text-sm text-primary-foreground/80">
               Building Brains With Character. Excellence in academic and holistic development in
               Luweero, Uganda.
@@ -72,7 +72,7 @@ export function Footer() {
 
         <div className="border-t border-primary-foreground/30 pt-8">
           <p className="text-center text-sm text-primary-foreground/80">
-            &copy; 2024 Midland High School. All rights reserved.
+            &copy; 2024 Midland High School - Luweero. All rights reserved.
           </p>
         </div>
       </div>

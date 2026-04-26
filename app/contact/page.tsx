@@ -61,7 +61,7 @@ export default function ContactPage() {
           <div className="max-w-7xl mx-auto">
             <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
             <p className="text-lg text-secondary-foreground/90">
-              Get in touch with Midland High School. We&apos;d love to hear from you.
+              Get in touch with Midland High School - Luweero. We&apos;d love to hear from you.
             </p>
           </div>
         </section>
@@ -81,6 +81,19 @@ export default function ContactPage() {
                   <CardContent>
                     <p className="text-muted-foreground">+256 777 564424</p>
                     <p className="text-muted-foreground">+256 773 493759</p>
+                    <p className="text-muted-foreground">+256 774 060480</p>
+                    <p className="text-sm text-muted-foreground mt-2">Main Office</p>
+                  </CardContent>
+                </Card>
+
+                <Card>
+                  <CardHeader>
+                    <div className="flex items-center gap-3 mb-2">
+                      <Phone className="text-primary" size={24} />
+                      <CardTitle className="text-lg">Phone</CardTitle>
+                    </div>
+                  </CardHeader>
+                  <CardContent>
                     <p className="text-muted-foreground">+256 774 060480</p>
                     <p className="text-sm text-muted-foreground mt-2">Main Office</p>
                   </CardContent>
@@ -285,7 +298,7 @@ export default function ContactPage() {
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-3 text-sm">
-                      <p className="font-medium">Midland High School</p>
+                      <p className="font-medium">Midland High School - Luweero</p>
                       <p className="text-muted-foreground">P.O. BOX 389</p>
                       <p className="text-muted-foreground">Luweero District</p>
                       <p className="text-muted-foreground">Uganda</p>

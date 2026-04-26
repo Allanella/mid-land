@@ -31,7 +31,7 @@ export default function NewsPage() {
           <div className="max-w-7xl mx-auto">
             <h1 className="text-4xl font-bold mb-4">News & Announcements</h1>
             <p className="text-lg text-primary-foreground/90">
-              Stay updated with the latest news from Midland High School.
+              Stay updated with the latest news from Midland High School - Luweero.
             </p>
           </div>
         </section>
@@ -40,7 +40,10 @@ export default function NewsPage() {
         <section className="py-8 px-4 sm:px-6 lg:px-8 bg-muted/30">
           <div className="max-w-7xl mx-auto">
             <div className="relative">
-              <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" size={20} />
+              <Search
+                className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground"
+                size={20}
+              />
               <Input
                 type="text"
                 placeholder="Search news by title or category..."
@@ -81,7 +84,10 @@ export default function NewsPage() {
             {filteredNews.length > 0 ? (
               <div className="space-y-6">
                 {filteredNews.map((article) => (
-                  <Card key={article.id} className="overflow-hidden hover:shadow-lg transition-shadow">
+                  <Card
+                    key={article.id}
+                    className="overflow-hidden hover:shadow-lg transition-shadow"
+                  >
                     <CardHeader className="pb-3">
                       <div className="flex items-start justify-between gap-4">
                         <div className="flex-1">
@@ -110,7 +116,9 @@ export default function NewsPage() {
               </div>
             ) : (
               <div className="text-center py-12">
-                <p className="text-muted-foreground text-lg">No news articles found matching your search.</p>
+                <p className="text-muted-foreground text-lg">
+                  No news articles found matching your search.
+                </p>
               </div>
             )}
           </div>

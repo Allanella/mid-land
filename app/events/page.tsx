@@ -20,7 +20,7 @@ export default function EventsPage() {
           <div className="max-w-7xl mx-auto">
             <h1 className="text-4xl font-bold mb-4">School Events</h1>
             <p className="text-lg text-secondary-foreground/90">
-              Upcoming events and activities at Midland High School.
+              Upcoming events and activities at Midland High School - Luweero.
             </p>
           </div>
         </section>
@@ -44,7 +44,10 @@ export default function EventsPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {sortedEvents.map((event) => (
-                <Card key={event.id} className="overflow-hidden hover:shadow-lg transition-shadow flex flex-col">
+                <Card
+                  key={event.id}
+                  className="overflow-hidden hover:shadow-lg transition-shadow flex flex-col"
+                >
                   <div className="bg-accent/10 border-l-4 border-accent p-4">
                     <div className="flex items-center justify-between mb-2">
                       <span className="inline-block bg-accent text-accent-foreground px-3 py-1 rounded-full text-xs font-semibold">
@@ -101,10 +104,12 @@ export default function EventsPage() {
                 </CardHeader>
                 <CardContent className="space-y-2 text-sm">
                   <p>
-                    <strong>Examinations:</strong> All major examinations follow the school calendar and national exam schedules.
+                    <strong>Examinations:</strong> All major examinations follow the school calendar
+                    and national exam schedules.
                   </p>
                   <p>
-                    <strong>Prize Giving:</strong> Annual event celebrating academic and co-curricular achievements.
+                    <strong>Prize Giving:</strong> Annual event celebrating academic and
+                    co-curricular achievements.
                   </p>
                   <p>
                     <strong>Graduation:</strong> Formal ceremony for Form 4 leavers.
@@ -121,10 +126,12 @@ export default function EventsPage() {
                     <strong>Sports Days:</strong> Inter-house and inter-form competitions.
                   </p>
                   <p>
-                    <strong>Cultural Events:</strong> Talent shows, drama productions, and music performances.
+                    <strong>Cultural Events:</strong> Talent shows, drama productions, and music
+                    performances.
                   </p>
                   <p>
-                    <strong>Fairs & Exhibitions:</strong> Science fairs, career expos, and subject exhibitions.
+                    <strong>Fairs & Exhibitions:</strong> Science fairs, career expos, and subject
+                    exhibitions.
                   </p>
                 </CardContent>
               </Card>

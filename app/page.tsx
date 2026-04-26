@@ -168,7 +168,7 @@ export default function Home() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Why Choose Midland High?
+                Why Choose Midland High School - Luweero?
               </h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                 Discover what makes our school a beacon of excellence in education
@@ -214,9 +214,9 @@ export default function Home() {
         <section className="py-20 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16">
-              <h2 className="text-4xl font-bold mb-4">Our Programs</h2>
-              <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Comprehensive educational pathways for every student's success
+              <h1 className="text-4xl font-bold mb-2">Online Registration</h1>
+              <p className="text-lg text-muted-foreground">
+                Join Midland High School - Luweero. Fill out the form below to apply for admission.
               </p>
             </div>
 
