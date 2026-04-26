@@ -132,13 +132,14 @@ export default function ContactPage() {
                       <CardTitle className="text-lg">Hours</CardTitle>
                     </div>
                   </CardHeader>
+
                   <CardContent className="space-y-2 text-sm">
                     <div>
-                      <p className="font-medium">Monday - Friday</p>
+                      <p className="font-medium">Sunday - Friday</p>
                       <p className="text-muted-foreground">8:00 AM - 5:00 PM</p>
                     </div>
                     <div>
-                      <p className="font-medium">Sunday</p>
+                      <p className="font-medium">Saturday</p>
                       <p className="text-muted-foreground">Closed</p>
                     </div>
                   </CardContent>
@@ -316,11 +317,11 @@ export default function ContactPage() {
                   <CardContent>
                     <div className="space-y-2 text-sm">
                       <div className="flex justify-between">
-                        <span>Monday - Friday</span>
+                        <span>Sunday - Friday</span>
                         <span className="font-medium">8:00 AM - 5:00 PM</span>
                       </div>
                       <div className="flex justify-between">
-                        <span>Sunday</span>
+                        <span>Saturday</span>
                         <span className="font-medium">Closed</span>
                       </div>
                     </div>
