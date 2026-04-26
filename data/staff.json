@@ -1,0 +1,40 @@
+{
+  "staff": [
+    {
+      "id": 1,
+      "name": "Mr. David Kipchoge",
+      "position": "Head Teacher",
+      "email": "head.teacher@midlandhigh.edu",
+      "phone": "+254 (0)20 XXXX XXXX",
+      "image": "/images/head-teacher.jpg",
+      "bio": "With over 15 years of experience in educational leadership, Mr. Kipchoge has been at the helm of Midland High School since 2018. He is passionate about fostering academic excellence and holistic development."
+    },
+    {
+      "id": 2,
+      "name": "Ms. Jane Achieng",
+      "position": "Deputy Head Teacher - Academics",
+      "email": "academics@midlandhigh.edu",
+      "phone": "+254 (0)20 XXXX XXXX",
+      "image": "/images/staff-placeholder.jpg",
+      "bio": "An experienced educator with a focus on curriculum development and student achievement."
+    },
+    {
+      "id": 3,
+      "name": "Mr. Samuel Mutua",
+      "position": "Head of Science Department",
+      "email": "science@midlandhigh.edu",
+      "phone": "+254 (0)20 XXXX XXXX",
+      "image": "/images/staff-placeholder.jpg",
+      "bio": "Leading our science program with innovative teaching methods and student engagement."
+    },
+    {
+      "id": 4,
+      "name": "Mrs. Grace Owuor",
+      "position": "Head of Languages Department",
+      "email": "languages@midlandhigh.edu",
+      "phone": "+254 (0)20 XXXX XXXX",
+      "image": "/images/staff-placeholder.jpg",
+      "bio": "Promoting linguistic excellence and cultural awareness across all language programs."
+    }
+  ]
+}

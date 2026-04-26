@@ -1,0 +1,16 @@
+{
+  "projectSettings": {
+    "name": "Midland High School",
+    "description": "Midland High School Website - Luweero, Uganda",
+    "buildCommand": "next build",
+    "outputDirectory": ".next",
+    "gitFork": false,
+    "installCommand": "pnpm install"
+  },
+  "env": {
+    "NEXT_PUBLIC_SITE_URL": {
+      "description": "Public site URL for social sharing",
+      "default": "https://midlandhighschool.vercel.app"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Sports Day",
+      "date": "2024-05-15",
+      "time": "9:00 AM",
+      "location": "School Sports Ground",
+      "description": "Join us for our annual sports day featuring various sporting competitions, teams from different streams, and exciting entertainment.",
+      "category": "Sports"
+    },
+    {
+      "id": 2,
+      "title": "Form 4 Graduation Ceremony",
+      "date": "2024-06-20",
+      "time": "10:00 AM",
+      "location": "School Auditorium",
+      "description": "Celebrating the graduation of our Form 4 cohort with awards, speeches, and festive atmosphere.",
+      "category": "Academic"
+    },
+    {
+      "id": 3,
+      "title": "Open Day for Prospective Students",
+      "date": "2024-05-25",
+      "time": "2:00 PM",
+      "location": "School Campus",
+      "description": "Visit our school to explore our facilities, meet our staff, and learn about our programs. Perfect opportunity for prospective students and parents.",
+      "category": "Admissions"
+    },
+    {
+      "id": 4,
+      "title": "School Talent Show",
+      "date": "2024-05-30",
+      "time": "6:00 PM",
+      "location": "School Auditorium",
+      "description": "Showcase of student talents including music, dance, drama, and other performances.",
+      "category": "Entertainment"
+    },
+    {
+      "id": 5,
+      "title": "Science and Innovation Fair",
+      "date": "2024-06-10",
+      "time": "9:00 AM",
+      "location": "Science Block",
+      "description": "Students display their scientific projects and innovations. Parents and visitors welcome.",
+      "category": "Academic"
+    }
+  ]
+}

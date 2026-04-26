@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "id": 1,
+      "name": "Lower Secondary",
+      "grade": "Forms 1-2",
+      "description": "Comprehensive foundational education covering sciences, languages, mathematics, humanities, and practical skills.",
+      "subjects": ["Mathematics", "English", "Kiswahili", "Physics", "Chemistry", "Biology", "History", "Geography", "ICT", "Physical Education"],
+      "duration": "2 years"
+    },
+    {
+      "id": 2,
+      "name": "Upper Secondary",
+      "grade": "Forms 3-4",
+      "description": "Specialized education with focus on student strengths and career aspirations. Preparation for national examinations.",
+      "subjects": ["Mathematics", "English", "Physics", "Chemistry", "Biology", "History", "Geography", "Economics", "Literature", "ICT"],
+      "duration": "2 years"
+    },
+    {
+      "id": 3,
+      "name": "Pathfinders Club",
+      "description": "Our premier youth development program fostering leadership, teamwork, and social responsibility. Members engage in community service, leadership training, and character building.",
+      "highlights": ["Leadership Training", "Community Service", "Team Building", "Character Development", "Mentorship Programs"],
+      "image": "/images/pathfinders-club.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sports & Recreation",
+      "description": "Comprehensive sports program including football, netball, basketball, athletics, and volleyball.",
+      "activities": ["Football", "Netball", "Basketball", "Athletics", "Volleyball", "Tennis", "Swimming"],
+      "benefits": ["Physical Fitness", "Team Spirit", "Mental Health", "Discipline"]
+    }
+  ]
+}

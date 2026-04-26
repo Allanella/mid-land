@@ -1,0 +1,46 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "title": "School Campus",
+      "image": "/images/school-gate.jpg",
+      "category": "Infrastructure",
+      "description": "Beautiful view of our school campus with the iconic gate"
+    },
+    {
+      "id": 2,
+      "title": "Pathfinders Club",
+      "image": "/images/pathfinders-club.jpg",
+      "category": "Clubs",
+      "description": "Members of our prestigious Pathfinders Club"
+    },
+    {
+      "id": 3,
+      "title": "School Badge",
+      "image": "/images/school-badge.jpg",
+      "category": "Branding",
+      "description": "Our official school badge representing our values and heritage"
+    },
+    {
+      "id": 4,
+      "title": "Agricultural Project",
+      "image": "/images/student-agriculture.jpg",
+      "category": "Learning",
+      "description": "Students showcasing their hands-on agricultural and science projects"
+    },
+    {
+      "id": 5,
+      "title": "Classroom Learning",
+      "image": "/images/student-writing.jpg",
+      "category": "Academics",
+      "description": "Student engaged in active learning and note-taking during class"
+    },
+    {
+      "id": 6,
+      "title": "Student Portrait",
+      "image": "/images/student-portrait.jpg",
+      "category": "Students",
+      "description": "Portrait of our dedicated student in school uniform"
+    }
+  ]
+}

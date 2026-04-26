@@ -1,0 +1,36 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "KCSE Results 2024 - Excellence Achieved",
+      "date": "2024-04-15",
+      "category": "Academic",
+      "excerpt": "Our students have demonstrated outstanding academic performance in the 2024 KCSE examinations with a 98% pass rate.",
+      "content": "We are proud to announce that our students have achieved exceptional results in the 2024 KCSE examinations. With a 98% pass rate and several students scoring A grades, Midland High School continues to set the standard for academic excellence in the region. Congratulations to all our students, parents, and dedicated teaching staff."
+    },
+    {
+      "id": 2,
+      "title": "New Science Laboratory Opened",
+      "date": "2024-04-10",
+      "category": "Infrastructure",
+      "excerpt": "The state-of-the-art science laboratory was officially opened by the Board Chairman.",
+      "content": "We are delighted to announce the opening of our new state-of-the-art science laboratory. Equipped with modern apparatus and facilities, this new lab will enhance our science teaching and learning experience, preparing students for advanced studies and research."
+    },
+    {
+      "id": 3,
+      "title": "Pathfinders Club Community Service Initiative",
+      "date": "2024-04-05",
+      "category": "Community",
+      "excerpt": "Pathfinders Club members completed a successful community cleanup exercise in the surrounding areas.",
+      "content": "Our Pathfinders Club members have been actively engaged in community service initiatives. This month, they completed a comprehensive cleanup exercise in partnership with local environmental organizations, demonstrating our commitment to community development and environmental conservation."
+    },
+    {
+      "id": 4,
+      "title": "Students Excel in Mathematics Olympiad",
+      "date": "2024-03-28",
+      "category": "Academic",
+      "excerpt": "Five students from Midland High School qualified for the national finals of the Mathematics Olympiad.",
+      "content": "We celebrate the achievement of our five students who have qualified for the national finals of the Mathematics Olympiad. This recognition is a testament to their dedication, the quality of our mathematics program, and the support of our dedicated teachers."
+    }
+  ]
+}
