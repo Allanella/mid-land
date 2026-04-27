@@ -71,9 +71,19 @@ export function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/30 pt-8">
-          <p className="text-center text-sm text-primary-foreground/80">
-            &copy; 2024 Midland High School - Luweero. All rights reserved.
-          </p>
+          <div className="text-center space-y-2">
+            <p className="text-sm text-primary-foreground/80">
+              &copy; 2024 Midland High School - Luweero. All rights reserved.
+            </p>
+            <div className="flex flex-col items-center gap-1">
+              <p className="text-xs text-primary-foreground/60">Developed by Baliddawa Allan</p>
+              <div className="flex gap-4 text-xs text-primary-foreground/60">
+                <span>0700966715</span>
+                <span>•</span>
+                <span>0785639406</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
