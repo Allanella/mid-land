@@ -229,7 +229,7 @@ export default function RegisterPage() {
                             onChange={(e) => setStudentType('local')}
                             className="w-4 h-4"
                           />
-                          <span className="text-sm font-medium">Local Student (Uganda)</span>
+                          <span className="text-sm font-medium">National</span>
                         </label>
                         <label className="flex items-center gap-3 cursor-pointer">
                           <input
@@ -522,7 +522,7 @@ export default function RegisterPage() {
                   <div className="space-y-2">
                     <p className="text-sm text-muted-foreground">Student Type</p>
                     <p className="font-semibold text-lg">
-                      {studentType === 'local' ? 'Local Student' : 'International Student'}
+                      {studentType === 'local' ? 'National' : 'International'}
                     </p>
                   </div>
 
